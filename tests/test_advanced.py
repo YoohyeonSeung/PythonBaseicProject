@@ -3,6 +3,7 @@
 from .context import sample
 
 import unittest
+import numpy as np
 
 
 class AdvancedTestSuite(unittest.TestCase):
@@ -11,6 +12,7 @@ class AdvancedTestSuite(unittest.TestCase):
     def test_thoughts(self):
         self.assertIsNone(sample.hmm())
 
+    print(np.array)
 
 if __name__ == '__main__':
     unittest.main()
