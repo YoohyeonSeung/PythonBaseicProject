@@ -1,5 +1,4 @@
-# PythonBaseicProject
-Python Basic Project 개요
+# Python Basic Project
 ================
 ## 1. 개발 환경
     1) Python 3.7.4   
