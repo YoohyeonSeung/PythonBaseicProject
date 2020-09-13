@@ -1,4 +1,4 @@
-# 맥북 Python 가상환경 세팅 및 사용
+# 맥 Python 가상환경 세팅 및 사용
 
 ## 1. 설치되어 있는 가상환경 확인 명령어
 * pyenv versions
